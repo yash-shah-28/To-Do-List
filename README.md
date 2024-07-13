@@ -4,7 +4,9 @@
 **Domain** : *Frontend Development*
 **Duration** : *June to July 2024*
 
-**CODTECH Task1 To-Do List** 
+## **CODTECH Task1 To-Do List** 
+
+## Overview of Project
 
 I am excited to announce that I have successfully completed the first task of my virtual internship at CODTECH IT Solutions. The project involved developing a dynamic To-Do List application, where I utilized HTML, CSS, and JavaScript to create an intuitive and user-friendly experience.
 
