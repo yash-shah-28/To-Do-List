@@ -1,9 +1,10 @@
 ## **CODTECH Task1 To-Do List** 
-*Name* : SHAH YASH NITINKUMAR
-*Company* : CODTECH IT SOLUTIONS
-*ID* : CT08DS2667
-*Domain* : Frontend Development
-*Duration* : June to July 2024
+
+* *Name* : SHAH YASH NITINKUMAR
+* *Company* : CODTECH IT SOLUTIONS
+* *ID* : CT08DS2667
+* *Domain* : Frontend Development
+* *Duration* : June to July 2024
 
 ## Overview of Project
 
