@@ -24,3 +24,5 @@ Throughout this project, I gained valuable experience in:
 **JavaScript fundamentals**: I implemented JavaScript functionality to enable editing, deleting, and checking off tasks within the to-do list.
 
 I'm incredibly grateful to CODTECH IT SOLUTIONS for providing this opportunity to learn and grow as a developer. This project has significantly boosted my understanding of front-end development and JavaScript. I look forward to continuing my internship and tackling more challenging projects in the future!
+
+![To-Do](https://github.com/user-attachments/assets/1c04818a-59b3-4733-b4bb-eb0cc928a661)
